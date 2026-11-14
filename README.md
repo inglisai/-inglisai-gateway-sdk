@@ -30,12 +30,12 @@
 ## Commercial Subscription Tiers (Self-Hosted Edge Licenses)
 All commercial tiers are issued as **Self-Hosted Edge Licenses**, allowing licensees to deploy and operate the gateway inside their own cloud, on-premise, or edge server infrastructure with zero third-party data exposure.
 
-| Tier | Monthly / Annual Rate | Capacity & Nodes | Support & SLA |
+| Tier | Rate | Capacity & Nodes | Support & Action |
 | :--- | :--- | :--- | :--- |
-| **Sandbox Evaluation** | **Free (14 Days)** | 1 test node · Up to 10,000 test requests | Internal sandbox benchmarking only |
-| **Growth Tier** | **$150 / Month** | Up to **3** concurrent downstream nodes · **500,000** payloads/mo | Standard email anomaly diagnosis |
-| **Enterprise Tier** | **$500 / Month** | Up to **15** concurrent downstream nodes · **5,000,000** payloads/mo | Priority security patches & telemetry review |
-| **Custom Institutional** | **Custom Annual Contract** | **Unlimited** nodes & multi-region clustering | Custom SLAs, dedicated architecture & hardware ID integration |
+| **Sandbox Evaluation** | **Free (14 Days)** | 1 test node · Up to 10,000 test requests | Internal sandbox benchmarking · [Request Trial](https://://inglisai.com) |
+| **Growth Tier** | **$150 / Month** | Up to **3** concurrent downstream nodes · **500,000** payloads/mo | Email anomaly diagnosis · **[Subscribe — $150/mo](https://buy.stripe.com/7sYcMYetFdHP59N4j15AQ00)** |
+| **Enterprise Tier** | **$1,000 / Month** | Up to **15** concurrent downstream nodes · **5,000,000** payloads/mo | Priority patches & telemetry review · **[Subscribe — $1,000/mo](https://buy.stripe.com/4gM6oAetFbzHau73eX5AQ01)** |
+| **Custom Institutional** | **Custom Annual Contract** | **Unlimited** nodes & multi-region clustering | Custom SLAs & hardware ID integration · **[Request Quote](https://://inglisai.com)** |
 
 ---
 
