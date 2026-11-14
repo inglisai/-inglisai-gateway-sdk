@@ -1,7 +1,7 @@
 # INGLIS AI — High-Concurrency Edge Security Gateway & Telemetry Middleware
 **Patent Pending — U.S. Patent Application No. 19/853,850 (Filed October 27, 2026)**  
 **Inventor & Architect:** Christopher Hughes | Inglis Advanced Infrastructure LLC  
-**Official Website:** https://://inglisai.com
+**Official Website:** [www.inglisai.com](https://inglisai.com)
 
 ---
 
@@ -32,14 +32,14 @@ All commercial tiers are issued as **Self-Hosted Edge Licenses**, allowing licen
 
 | Tier | Rate | Capacity & Nodes | Support & Action |
 | :--- | :--- | :--- | :--- |
-| **Sandbox Evaluation** | **Free (14 Days)** | 1 test node · Up to 10,000 test requests | Internal sandbox benchmarking · [Request Trial](https://://inglisai.com) |
-| **Growth Tier** | **$150 / Month** | Up to **3** concurrent downstream nodes · **500,000** payloads/mo | Email anomaly diagnosis · **[Subscribe — $150/mo](https://buy.stripe.com/7sYcMYetFdHP59N4j15AQ00)** |
-| **Enterprise Tier** | **$1,000 / Month** | Up to **15** concurrent downstream nodes · **5,000,000** payloads/mo | Priority patches & telemetry review · **[Subscribe — $1,000/mo](https://buy.stripe.com/4gM6oAetFbzHau73eX5AQ01)** |
-| **Custom Institutional** | **Custom Annual Contract** | **Unlimited** nodes & multi-region clustering | Custom SLAs & hardware ID integration · **[Request Quote](https://://inglisai.com)** |
+| **Sandbox Evaluation** | **Free (14 Days)** | 1 test node · Up to 10,000 test requests | Internal sandbox benchmarking · **[Request Trial](https://inglisai.com)** |
+| **Growth Tier** | **$150 / Month** | Up to **3** concurrent downstream nodes · **500,000** payloads/mo | Email anomaly diagnosis · **[Subscribe — $150/mo](https://stripe.com)** |
+| **Enterprise Tier** | **$1,000 / Month** | Up to **15** concurrent downstream nodes · **5,000,000** payloads/mo | Priority patches & telemetry review · **[Subscribe — $1,000/mo](https://stripe.com)** |
+| **Custom Institutional** | **Custom Annual Contract** | **Unlimited** nodes & multi-region clustering | Custom SLAs & hardware ID integration · **[Request Quote](https://inglisai.com)** |
 
 ---
 
 ## Request a Sandbox Key or Commercial Lease
 Source code is proprietary and protected under **U.S. Patent Application No. 19/853,850**.
-- **Project Intake & Licensing Portal:** [://inglisai.com](https://://inglisai.com)
+- **Project Intake & Licensing Portal:** [www.inglisai.com](https://inglisai.com)
 - **Direct Engineering Contact:** flacmh@gmail.com | (352) 585-1266
