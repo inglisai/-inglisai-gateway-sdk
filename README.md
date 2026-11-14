@@ -1,7 +1,7 @@
 # INGLIS AI — High-Concurrency Edge Security Gateway & Telemetry Middleware
 **Patent Pending — U.S. Patent Application No. 19/853,850 (Filed October 27, 2026)**  
 **Inventor & Architect:** Christopher Hughes | Inglis Advanced Infrastructure LLC  
-**Official Website:** [://inglisai.com](https://://inglisai.com)
+**Official Website:** https://://inglisai.com
 
 ---
 
