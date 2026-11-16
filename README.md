@@ -43,8 +43,15 @@ All commercial tiers are issued as **Self-Hosted Edge Licenses**, allowing licen
 
 Source code is proprietary and protected under **U.S. Patent Application No. 19/853,850**.
 
-[![Request 14-Day Sandbox](https://shields.io)](https://inglisai.com)
-[![Direct Engineering Email](https://shields.io)](mailto:flacmh@://gmail.com)
+## Request a Sandbox Key or Commercial Lease
+
+Source code is proprietary and protected under **U.S. Patent Application No. 19/853,850**.
+
+* **[Request a 14-Day Sandbox Key](https://inglisai.com)**
+* **[Email Engineering Directly](mailto:flacmh@gmail.com)**
+* **Project Intake & Licensing Portal:** [://inglisai.com](https://inglisai.com)
+* **Direct Engineering Contact:** flacmh@gmail.com | (352) 585-1266
+
 
 * **Project Intake & Licensing Portal:** [www.inglisai.com](https://inglisai.com)
 * **Direct Engineering Contact:** flacmh@gmail.com | (352) 585-1266
